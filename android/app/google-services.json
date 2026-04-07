@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950597604396",
+    "project_id": "studyo-projesi",
+    "storage_bucket": "studyo-projesi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950597604396:android:b704fac0a3238ff23ced89",
+        "android_client_info": {
+          "package_name": "com.example.studyo_projesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKM4ag0dzGCj3QwTlOoBRoa5h_B7LiNzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
